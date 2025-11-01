@@ -9,15 +9,15 @@ export default function Gallery() {
 
   // Placeholder gallery images - user can replace with their own photos
   const photos = [
-    "/Benty/IMG-20231114-WA0035.jpg",
-    "/Benty/IMG-20231226-WA0045.jpg",
-    "/Benty/IMG-20241026-WA0002.jpg",
-    "/Benty/IMG-20241214-WA0014.jpg",
-    "/Benty/IMG-20250208-WA0001.jpg",
-    "/Benty/IMG-20250212-WA0007.jpg",
-    "/Benty/IMG-20250306-WA0033.jpg",
-    "/Benty/IMG-20250715-WA0010.jpg",
-    "/Benty/IMG-20250816-WA0003.jpg",
+    "/public/Benty/IMG-20231114-WA0035.jpg",
+    "/public/Benty/IMG-20231226-WA0045.jpg",
+    "/public/Benty/IMG-20241026-WA0002.jpg",
+    "/public/Benty/IMG-20241214-WA0014.jpg",
+    "/public/Benty/IMG-20250208-WA0001.jpg",
+    "/public/Benty/IMG-20250212-WA0007.jpg",
+    "/public/Benty/IMG-20250306-WA0033.jpg",
+    "/public/Benty/IMG-20250715-WA0010.jpg",
+    "/public/Benty/IMG-20250816-WA0003.jpg",
   ]
 
   useEffect(() => {
